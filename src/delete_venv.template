@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+# Created 11-15-24 by Gabriel Floreslovo
 # This script deeletes a python virtual environment from a user's list of 
 # environments made by the HPRC create_venv tool
 
